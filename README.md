@@ -11,3 +11,5 @@ Aqui se muestra el codigo del programa.
 
 Aqui se muestra el resultado una vez corrido el programa.
 
+![image](https://user-images.githubusercontent.com/54882313/119868913-7fb75e80-bed4-11eb-9a61-062b59f945ea.png)
+
